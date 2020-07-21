@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋 🧔  
+
+
+Find me around the web 🌎:
+- [Blog](https://yerevin.github.io/blog/#) ✍️
+- [Portfolio](https://yerevin.github.io/) ✨
+- [LinkedIn](https://www.linkedin.com/in/mateusz-skulski/) 💼
+
 
 <!--
 **yerevin/yerevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
