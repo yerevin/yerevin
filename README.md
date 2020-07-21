@@ -3,7 +3,7 @@
 
 Find me around the web 🌎:
 - [Blog](https://yerevin.github.io/blog/#) ✍️
-- [Portfolio](https://yerevin.github.io/) ✨
+- [Website](https://yerevin.github.io/) ✨
 - [LinkedIn](https://www.linkedin.com/in/mateusz-skulski/) 💼
 
 
